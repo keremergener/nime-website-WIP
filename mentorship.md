@@ -56,7 +56,7 @@ Please submit your application by sending an [email](mailto:kergen1@lsu.edu) tha
 ### Committee 
 
 * [Kerem Ergener](https://keremergener.com/), Head of The Mentorship Program (Louisiana State University, US)
-* [Doga Cavdir](https://https://www.dogacavdir.com/), Member-at-large of The Mentorship Program (IT-Universitetet i København, Denmark)
+* [Doga Cavdir](https://https://www.dogacavdir.com/), Supervisor of The Mentorship Program (IT-Universitetet i København, Denmark)
 
 ### Language Support
 
