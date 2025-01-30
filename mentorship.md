@@ -4,8 +4,7 @@ title: Mentorship Program
 permalink: /mentorship/
 ---
 
-
-The objective of the NIME mentorship program is to increase the inclusiveness of our community by helping NIME newcomers, especially underrepresented groups and non-English speakers, to be onboarded in the NIME discourse. A mentor is expected to help a newcomer (mentee) position their work within the NIME discourse, and the mentorship would ideally result in a co-authored NIME submission. 
+The objective of the NIME mentorship program is to increase the inclusiveness of our community by helping NIME newcomers, especially underrepresented groups and non-English speakers, to be onboarded in the NIME discourse.  The goal of the mentorship program to bring newcomer to the NIME community and match them with experts in the field. A mentor is expected to help a newcomer (mentee) position their work within the NIME discourse, and the mentorship would ideally result in a co-authored NIME submission.
 
 The mentorship program and application platforms are open throughout the year. The mentee applies with a proposed project they want to work on and need some form of mentorship. According to the proposed project, the program runs ideally between three months to a year. Once the mentee submissions are complete, the mentors’ availability is checked, and the mentees are matched with their mentors. The committee assigns a mentor to each proposed project based on the mentor's availability and expertise. The program operates on a first-come, first-served basis. If no mentor for the proposed project can be found, the proposed project is saved for a year until a mentor is found. If no mentor is found within that time, the mentee candidate must submit either the same project again or a new one.
 
